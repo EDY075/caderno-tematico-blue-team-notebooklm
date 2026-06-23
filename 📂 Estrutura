@@ -1,0 +1,22 @@
+caderno-tematico-blue-team-notebooklm
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs
+│   ├── Mini-Guia-Blue-Team.md
+│   ├── Glossario.md
+│   └── Roadmap-Blue-Team.md
+│
+├── prompts
+│   ├── Prompts-Iniciantes.md
+│   ├── Prompts-Revisao.md
+│   └── Prompts-Blue-Team.md
+│
+└── fontes
+    ├── NIST.md
+    ├── OWASP.md
+    ├── CIS-Controls.md
+    ├── Microsoft-Learn.md
+    └── IBM-Incident-Response.md
