@@ -1,0 +1,22 @@
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local environments and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+node_modules/
+*.db
+*.sqlite*
