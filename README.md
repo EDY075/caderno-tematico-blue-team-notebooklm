@@ -6,6 +6,10 @@ Caderno de segurança da informação que usa NotebookLM e IA como apoio à apre
 
 ![Blue Team](https://img.shields.io/badge/Blue_Team-learning-0EA5E9?style=flat-square) ![SOC](https://img.shields.io/badge/SOC-fundamentals-0F766E?style=flat-square) ![NotebookLM](https://img.shields.io/badge/NotebookLM-study-4285F4?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-2EA44F?style=flat-square)
 
+## Apresentação em vídeo
+
+https://github.com/user-attachments/assets/45a8c793-7a50-4fd6-beca-76b1f53dcd53
+
 ## Conteúdo
 
 | Material | Finalidade |
